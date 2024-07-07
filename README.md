@@ -10,7 +10,7 @@ Version : 0.1.0-alpha
 - https://sm.alliedmods.net/smdrop/1.11/sourcemod-1.11.0-git6968-windows.zip
 
 ## How to install and launch Half-Life 2 Adaptive Music Mod 
-1. Head to the "Releases" section on GitHub (right side of the project on GitHub)
+1. Head to the "Releases" section on GitHub (right side of the project on GitHub), choose the version you want to use, and download the `hl2-amm-version.zip` file
 2. Extract it inside your game's **root** folder (ex. `C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2 Update` for Half-Life 2 Update)
 3. Launch the game from Steam or the `hl2.exe` executable
 4. For debugging only: Follow the following documentation to add arguments when launching your game: https://help.steampowered.com/en/faqs/view/7D01-D2DD-D75E-2955
