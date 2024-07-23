@@ -1,0 +1,6 @@
+[submodule "sourcemod-adaptivemusic-extension"]
+	path = sourcemod-adaptivemusic-extension
+	url = https://github.com/ManuHeel/sourcemod-adaptivemusic-extension
+[submodule "sourcemod-adaptivemusic"]
+	path = sourcemod-adaptivemusic
+	url = https://github.com/ManuHeel/sourcemod-adaptivemusic
