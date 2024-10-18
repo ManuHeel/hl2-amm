@@ -8,6 +8,7 @@ Version : 0.1.0-alpha
 - https://mms.alliedmods.net/mmsdrop/1.11/mmsource-1.11.0-git1155-windows.zip
 4. Download and extract SourceMod 1.11.0+6968 inside your game's `hl2` folder
 - https://sm.alliedmods.net/smdrop/1.11/sourcemod-1.11.0-git6968-windows.zip
+5. Go to your game's `hl2\addons\sourcemod\plugins` folder and move every `.smx` file to the `disabled` folder (create the folder if it does not exist)
 
 ## How to install and launch Half-Life 2 Adaptive Music Mod 
 1. Head to the "Releases" section on GitHub (right side of the project on GitHub), choose the version you want to use, and download the `hl2-amm-version.zip` file
