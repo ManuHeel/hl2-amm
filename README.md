@@ -1,3 +1,5 @@
+# MIGRATED TO GITLAB UNDER https://gitlab.com/hl2-amm
+
 # Half-Life 2 Adaptive Music Mod
 Version : 0.1.0-alpha
 
